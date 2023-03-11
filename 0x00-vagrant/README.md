@@ -1,1 +1,1 @@
-This is the vagrant directory
+It prints the core operating system name
